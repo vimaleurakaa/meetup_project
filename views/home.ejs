@@ -28,15 +28,17 @@
           <li>
             <a href="#team" class="btn-get-quote"><b>Team</b></a>
           </li>
-          <li>
-            <a id="modal_btn" href="#" class="btn-get-quote"><b>Login</b></a>
-          </li>
+
           <li>
             <a
-              style="visibility: hidden"
               class="btn btn-get-quote btn-primary"
-            ></a>
+              href="/logout"
+              style="color: #fff"
+              >Log out</a
+            >
+            <a id="modal_btn" style="display: none"></a>
           </li>
+          <!-- <li><%= name %></li> -->
         </ul>
       </nav>
       <!-- .nav-menu -->
@@ -46,6 +48,7 @@
     <%- include('partials/modal_form') %>
   </header>
   <!-- End Header -->
+
   <%- include('partials/toast') %>
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
