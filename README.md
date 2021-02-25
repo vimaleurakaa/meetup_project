@@ -1,13 +1,4 @@
-<img width=150px src="./public/image/GirlMeetup_logo.svg" style="margin-bottom:-10px">
 
-<br>
-
-## About
-
-This is a web development project with a vision to create a platform for people especially girls listing various scholarship opportunities and programs. Our main motive is to reach greater audience and help them to know about the programs according to their eligibility.
-
-## Link to application
-https://girlmeetup.herokuapp.com/
 
 ## Tech Stack
 
@@ -19,8 +10,6 @@ https://girlmeetup.herokuapp.com/
 
 ## How to start ? 🎪
 
-<p align= "center"><img width=55% src="https://media.giphy.com/media/JqzadBtonJVr0u8LUg/giphy.gif"></p>
-<br>
 
 #### If you don't have git on your machine, [install](https://help.github.com/articles/set-up-git/) it.
 
@@ -125,9 +114,5 @@ Now comes the most exciting part of the project. Understanding and making use of
 
 SPOILER ALERT: Be ready to have your mind blown...😜😏
 
-
-## 👨 Project Admin
-
-- Chehak Agarwal (https://github.com/chehak123)
 
 ## ❤️ Thanks
